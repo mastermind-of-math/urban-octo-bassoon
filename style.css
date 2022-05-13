@@ -1,0 +1,16 @@
+#image{
+    width:100%
+}
+
+.walk{
+    font-size: 25px;
+    border-radius: 15px;
+    padding:10px
+}
+
+.walk i{
+    float:right;
+}
+.container span{
+    color:goldenrod;
+}
